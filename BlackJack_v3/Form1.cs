@@ -531,11 +531,6 @@ namespace BlackJack_v3
             splitFlag = false;
         }
 
-        private void BlackJack_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void tableLayoutPanel2_Click(object sender, EventArgs e)
         {
             if (titleFlag)
